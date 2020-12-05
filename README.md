@@ -1,1 +1,1 @@
-# Social-Connector
+# Social-Connectorpackages descriptionexpress express-validatorbcryptjsconfiggravatarjsonwebtokenmongooserequestDevelopment DependenciesNodemon, concurrently

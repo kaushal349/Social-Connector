@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://slayer:%5E1%25sPdmH%5E@socialconnector.qxiyi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtToken": "hashkeywillgohere"
+}
